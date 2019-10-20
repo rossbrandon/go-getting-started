@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/pluralsight/webservice/models"
+	"github.com/rosstafarian/go-getting-started/models"
 )
 
 func main() {

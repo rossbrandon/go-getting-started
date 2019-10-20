@@ -1,3 +1,3 @@
-module github.com/pluralsight/webservice
+module github.com/rosstafarian/go-getting-started
 
 go 1.13
